@@ -40,7 +40,7 @@ export const Sidebar = () => {
                         </li>
                         <li className="nav-item">
                             <a className="nav-link  " data-bs-target="#charts-nav1" data-bs-toggle="collapse" href="#">
-                                <i className="bi bi-clipboard-pulse sideIcon" /><span>Team Members</span><i className="bi bi-chevron-down ms-auto"></i>
+                                <i className="bi bi-people sideIcon" /><span>Team Members</span><i className="bi bi-chevron-down ms-auto"></i>
                             </a>
                             <ul id="charts-nav1" className="nav-content collapse " data-bs-parent="#sidebar-nav">
                                 <li>
@@ -58,7 +58,7 @@ export const Sidebar = () => {
                         </li>
                         <li className="nav-item">
                             <a className="nav-link  " data-bs-target="#charts-nav2" data-bs-toggle="collapse" href="#">
-                                <i className="bi bi-clipboard-pulse sideIcon" /><span>Lab Test</span><i className="bi bi-chevron-down ms-auto"></i>
+                                <i className="bi bi-capsule sideIcon" /><span>Lab Test</span><i className="bi bi-chevron-down ms-auto"></i>
                             </a>
                             <ul id="charts-nav2" className="nav-content collapse " data-bs-parent="#sidebar-nav">
                                 <li>
